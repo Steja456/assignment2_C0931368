@@ -1,6 +1,6 @@
 Blog Management System
 This is a simple Java-based blog management system that uses the builder pattern to create Person and BlogPost instances, with additional functionality to display details about blog posts and contributors. The system also uses Lombok annotations to reduce boilerplate code.
-
+ 
 Features
 Person Creation: Create a person using the builder pattern with attributes like id, firstName, lastName, age, and gender.
 BlogPost Creation: Create blog posts using the builder pattern with id, authorId, and postContent.
